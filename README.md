@@ -1,2 +1,2 @@
-# NAP36
-NGINX App Protect R36 Course Repository
+# NAP34
+NGINX App Protect R34 Course Reposity
